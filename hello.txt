@@ -5,6 +5,16 @@ This is my first channel.
 
 This is created by Praveena G.
 
+Technologies to learn...
+Git
+Idea
+Java
+Spring
+SpringBoot
+Spring MVC
+Hibernate
+
+
 
 Thanks,
 Praveena
